@@ -5,4 +5,8 @@
 layout: page
 ---
 
-![](assets/images/header.jpg)
+<img src="assets/images/header.jpg"/>
+
+<div class="caption">
+(Source : BALONDRADE, Mickael, 2018. La Veille Stratégique, Outil Primordial, Mais Délaissée Par Les Entreprises ! In : Forbes France [en ligne]. 17 octobre 2018. [Consulté le 16 mai 2020]. Disponible à l’adresse : https://www.forbes.fr/business/la-veille-strategique-outil-primordial-mais-delaissee-par-les-entreprises/)
+</div>
