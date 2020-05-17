@@ -1,0 +1,33 @@
+---
+---
+
+@import "minima";
+
+.row {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.column1 {
+  flex: 25%;
+}
+
+.column2 {
+  flex: 75%;
+}
+
+img {
+  margin-top: 10px;
+}
+
+h1 {
+  font-size: 24pt;
+}
+
+.post-content h2 {
+  font-size: 17pt;
+}
+
+h3 {
+  font-size: 15pt;
+}

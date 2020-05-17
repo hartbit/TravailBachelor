@@ -1,9 +1,9 @@
-Image,Nom,Article le plus cité,Dernières publications,Lien,Nom du site / blog
+image,nom,article_plus_cite,annee_derniere_publication,lien,nom_site
 https://www.toolshero.com/wp-content/uploads/chris_argyris.png,Chris Argyris,Double loop learning in organizations,2009,https://fr.wikipedia.org/wiki/Chris_Argyris,"Pas de site, décédé"
 "https://www.liv.ac.uk/media/livacuk/schoolofmanagement/staffportraits2015/Julia,Balogun-1000x1488.jpg",Julia Balogun,Organizational restructuring and middle manager sensemaking,2019,https://www.liverpool.ac.uk/management/staff/julia-balogun/publications/#2019,University of liverpool management school
 https://www.shmula.com/wp-content/uploads/2018/11/richard-beckhard.jpg,Richard Beckhard,Managing continuity in the family-owned business,1993,https://en.wikipedia.org/wiki/Richard_Beckhard,"Pas de site, décédé"
 https://pbs.twimg.com/profile_images/1475055559/Yes_DSCN7011e2_400x400.jpg,Tom Devane,Transforming an organization through prototyping: A case study,1999,https://twitter.com/tomdevane,Twitter
-https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvu0pCUUM2pxa5PlzB7Kek7mAiqJE6svYTFEMJOO1b9hgq5b5i&usqp=CAU,David Fiorucci,-,2020,https://twitter.com/lp3leadership,Twitter
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvu0pCUUM2pxa5PlzB7Kek7mAiqJE6svYTFEMJOO1b9hgq5b5i&usqp=CAU,David Fiorucci,,2020,https://twitter.com/lp3leadership,Twitter
 https://www.berkeley.edu/news/media/releases/2008/03/images/freeman.jpg,John Freeman,Population ecology of organizations,1984,https://en.wikiquote.org/wiki/John_H._Freeman,"Pas de site, décédé"
 https://cdn.theconversation.com/avatars/171742/width238/image-20150522-32548-ifexfd.jpg,Dennis Gioia,Seeking Qualitative Rigor in Inductive Research: Notes on the Gioia Methodology,2020,http://www.personal.psu.edu/dag4/blogs/dennygioia/,Denny Gioia
 https://projectscrib.files.wordpress.com/2015/03/royston-greenwood.jpg,Royston Greenwood,Understanding radical organizational change: Bringing together the old and the new institutionalism,2020,https://apps.ualberta.ca/directory/person/rgreenwo,University of Alberta
@@ -16,7 +16,7 @@ https://www.toolshero.com/wp-content/uploads/2015/03/henri-mintzberg-toolshero.j
 https://www.toolshero.com/wp-content/uploads/2018/08/ikujiro-nonaka-toolshero.jpg,Ikujiro Nonaka,A dynamic theory of organizational knowledge creation,2016,https://fr.wikipedia.org/wiki/Ikujiro_Nonaka,Wikipedia
 https://mitsloan.mit.edu/sites/default/files/styles/profile_detail_headshot/public/profile-images/faculty-member-41293.png?h=7f412c8f&itok=TKeBu-t9,Wanda Orlikowski,Improvising organizational transformation over time: A situated change perspective,2019,https://mitsloan.mit.edu/faculty/directory/wanda-orlikowski,MIT Sloan
 https://www.thebritishacademy.ac.uk/sites/default/files/styles/large_square/public/userpictures/andrew-pettigrew.jpg?itok=jfk2g-gG,Andrew Pettigrew,Longitudinal field research on change : theory and practice,2020,https://www.sbs.ox.ac.uk/about-us/people/andrew-pettigrew,University of oxford
-https://static.thenounproject.com/png/236432-200.png,Elaine Romanelli,The evolution of new organizational forms,2012,-,-
+https://static.thenounproject.com/png/236432-200.png,Elaine Romanelli,The evolution of new organizational forms,2012,,
 https://maitron.fr/IMG/jpg/Sainsaulieu_Renaud.jpg,Renaud Sainsaulieu,Toward a sociological-theory of the firm,1995,https://fr.wikipedia.org/wiki/Renaud_Sainsaulieu,"Pas de site, décédé"
 https://www.egonzehnder.com/cdn/serve/article-images/x1561985799-74b1edd95efdf2299ce74500e4117e0c.jpg.pagespeed.ic.64xn40ZBlc.jpg,Elaine Romanelli,Organizational culture,2019,https://mitsloan.mit.edu/faculty/directory/edgar-h-schein,MIT Sloan
 https://www.toolshero.com/wp-content/uploads/2018/08/hirotaka-takeuchi-toolshero.jpg,Hirotaka Takeuchi,The wise leader,2016,https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6563&facInfo=pub,Harvard Business school

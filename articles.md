@@ -5,7 +5,7 @@ permalink: /articles/
 ---
 
 {% for article in site.data.articles %}
-# [{{ article.Titre }}]({{ article.Lien }})
+## [{{ article.Titre }}]({{ article.Lien }})
 
 * **Auteur :** {{ article.Auteur }}
 * **Date :** {{ article.Date }}

@@ -5,7 +5,7 @@ permalink: /youtube/
 ---
 
 {% for video in site.data.youtube %}
-# [{{ video.Titre }}](https://www.youtube.com/watch?v={{ video["Code de la vidéo"] }})
+## [{{ video.Titre }}](https://www.youtube.com/watch?v={{ video["Code de la vidéo"] }})
 
 * **Date :** {{ video.Date }}
 * **Nombre de vues :** {{ video["Nb de vue"] }}

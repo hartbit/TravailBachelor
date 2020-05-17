@@ -27,6 +27,17 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 
+header_pages:
+  - ouvrages.md
+  - articles.md
+  - auteurs.md
+  - revues.md
+  - blogs.md
+  - podcasts.md
+  - twitter.md
+  - linkedin.md
+  - youtube.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
