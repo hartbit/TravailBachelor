@@ -30,5 +30,3 @@ permalink: /linkedin/
 <h1>Personnes</h1>
 
 {% include linkedin_accounts.html accounts=site.data.linkedin_personnes %}
-
-http://127.0.0.1:4000/MandatVeille/assets/images/Lean%20Six%20Sigma.jpg
