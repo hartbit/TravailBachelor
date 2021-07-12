@@ -7,7 +7,7 @@ layout: page
 
 <div class="header">
     <p class="presentation">
-    Site réalisé par Manon hart, dans le cadre du Travail de Bachelor en information documentaire (HEG) intitulé :
+    Site réalisé par Manon Hart, dans le cadre du Travail de Bachelor en information documentaire (HEG) intitulé :
     </p>
     <p class="title">
     Accompagner et former l'administration cantonale vaudoise dans la mise en place d'une gouvernance de l'information : quelles stratégies et recommendations de formation ?
