@@ -13,29 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mandat Veille
+title: Catalogue des outils et activités
 email: manon.paladino-christin@etu.hesge.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Site créé dans un cadre pédagogique par des étudiantes à la Haute École de
-  Gestion (HEG-Genève) dans le cadre d’un cours de veille stratégique dans les
-  organisations. Pour plus d’information ou pour des questions, veuillez nous
-  contacter à l’adresse mentionnée à gauche de la page.
-baseurl: "/MandatVeille" # the subpath of your site, e.g. /blog
+  Site créé dans un cadre pédagogique par une étudiante de à la Haute École de
+  Gestion (HEG-Genève). Pour plus d’information ou pour des questions, veuillez
+  utiliser l’adresse mentionnée à gauche de la page.
+baseurl: "/OutilsPedagogiques" # the subpath of your site, e.g. /blog
 url: "https://hartbit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
 theme: minima
 
 header_pages:
-  - ouvrages.md
-  - articles.md
-  - auteurs.md
-  - revues.md
-  - blogs.md
-  - podcasts.md
-  - twitter.md
-  - linkedin.md
-  - youtube.md
+  - activites.md
+  - outils.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

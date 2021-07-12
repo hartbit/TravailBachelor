@@ -1,0 +1,56 @@
+<h3>{{ include.outil.Nom }}</h3>
+
+<div class="content">
+  <div class="row">
+    <div class="cell">
+      <b>Modalité :</b>{{ include.outil["Modalité"] | markdownify }}
+    </div>
+    <div class="cell">
+      <b>Temporalité :</b> {{ include.outil["Temporalité"] | markdownify }}
+    </div>
+    <div class="cell">
+      <b>Temps d'activité :</b> {{ include.outil["Temps d'activité"] | markdownify }}
+    </div>
+  </div>
+  <hr>
+  <div class="row">
+    <div class="column1">
+      <p>{{ include.outil.Description | markdownify }}</p>
+
+      <h4>Objectifs</h4>
+
+      <p>{{ include.outil.Objectifs | markdownify }}</p>
+
+      <h4>Avantages</h4>
+
+      {{ include.outil.Avantages | markdownify }}
+
+      <h4>Inconvénients</h4>
+
+      {{ include.outil["Inconvénients"] | markdownify }}
+
+      {% if include.outil.Ressources %}
+      <h4>Ressources</h4>
+
+      {{ include.outil.Ressources | markdownify }}
+      {% endif %}
+
+      <h4>Sources</h4>
+
+      {{ include.outil.Source | markdownify }}
+    </div>
+    <div class="column2">
+      <h5>Pour quand ?</h5>
+
+      {{ include.outil.Quand | markdownify }}
+
+      <h5>Pour combien ?</h5>
+
+      {{ include.outil.Participants | markdownify }}
+
+      <h5>Quel matériel ?</h5>
+
+      {{ include.outil["Matériel"] | markdownify }}
+    </div>
+  </div>
+</div>

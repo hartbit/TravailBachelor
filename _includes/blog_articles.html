@@ -1,8 +1,0 @@
-<h3>Derniers articles publiés</h3>
-<ul>
-  {% for article in include.articles %}
-    <li>
-        <b>{{ article.auteur }} :</b> <a href="{{ article.lien }}">{{ article.nom }}</a> ({{ article.date }})
-    </li>
-  {% endfor %}
-</ul>

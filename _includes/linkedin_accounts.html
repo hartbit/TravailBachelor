@@ -1,8 +1,0 @@
-{% for account in include.accounts %}
-  {% capture content %}
-  <b>Domaine d'activité :</b> {{ account.domaine_activite }}<br/>
-  <b>Nombre d'abonnés :</b> {{ account.nombre_abonnes }}
-  {% endcapture %}
-
-  {% include image_item.html link=account.lien_linkedin image=account.image title=account.nom content=content %}
-{% endfor %}

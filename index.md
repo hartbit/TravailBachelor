@@ -5,8 +5,14 @@
 layout: page
 ---
 
-<img src="assets/images/header.jpg"/>
-
-<div class="caption">
-(Source : BALONDRADE, Mickael, 2018. La Veille Stratégique, Outil Primordial, Mais Délaissée Par Les Entreprises ! In : Forbes France [en ligne]. 17 octobre 2018. [Consulté le 16 mai 2020]. Disponible à l’adresse : https://www.forbes.fr/business/la-veille-strategique-outil-primordial-mais-delaissee-par-les-entreprises/)
+<div class="header">
+    <p class="presentation">
+    Site réalisé par Manon hart, dans le cadre du Travail de Bachelor en information documentaire (HEG) intitulé :
+    </p>
+    <p class="title">
+    Accompagner et former l'administration cantonale vaudoise dans la mise en place d'une gouvernance de l'information : quelles stratégies et recommendations de formation ?
+    </p>
+    <p class="date">
+    juillet 2021
+    </p>
 </div>
