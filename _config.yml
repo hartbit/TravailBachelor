@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site créé dans un cadre pédagogique par une étudiante de à la Haute École de
   Gestion (HEG-Genève). Pour plus d’information ou pour des questions, veuillez
   utiliser l’adresse mentionnée à gauche de la page.
-baseurl: "/OutilsPedagogiques" # the subpath of your site, e.g. /blog
+baseurl: "/TravailBachelor" # the subpath of your site, e.g. /blog
 url: "https://hartbit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
